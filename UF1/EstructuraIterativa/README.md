@@ -1,6 +1,6 @@
 #Estructura Iterativa
-Enunciats(HOLA INTENTO MODIFICAR):
 
+##Capçalera:
 Estructura iterativa
 Per a cada exercici proposat, teniu anotat el següent format:
 (directoryName, ClassName, methodName1, methodName2,...)
@@ -14,6 +14,7 @@ d) Per a cada exercici, codifica dins la classe un o més mètodes amb els noms
 methodName1, methodName2...
 
 ---------------------------------------
+##Enunciats:
 1. (ascendentNumbers, Program, writeAscNumbers) Donats dos nombres enters n 1 i n 2
 amb n 1 < n 2, escriu per pantalla tots els nombres enters dins l’interval [n 1 , n 2 ] en ordre
 creixent.
