@@ -1,4 +1,5 @@
-#Estructura Iterativa
+#Estructura Iterativa 
+###Solucions.
 
 ##Capçalera:
 Estructura iterativa
