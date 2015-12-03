@@ -39,8 +39,7 @@ nombre zero es considera parell.
 positius.
 10. (narcissisticNumbers, Program, writeNarcissisticNumbers) Escriu els nombres enters
 positius narcisistes de tres xifres. Els nombres narcisistes de tres xifres són de la forma:
-abc=a 3 +b 3 +c 3CFGS DAM - M03
-Estructura iterativa
+abc=a 3 +b 3 +c 3
 11. (minMax, ProgramTUI, main) Llegeix un nombre enter n i n nombres enters i escriu el
 nombre més gran i el més petit d'ells.
 12. (numberOfEvenNumbers, Program, numberOfEvenNumbers) Donats dos nombre enters
@@ -77,8 +76,7 @@ suma dels seus divisors positius, excepte ell mateix.
 positius, determina si són amics o no. Dos nombres enters positius són amics si la suma
 dels divisors positius d'un és igual a l'altre número i a l'inrevés.
 24. (even, Program, isEven) Donat un nombre enter positiu, determina si és parell. No
-emprar els operadors divisió entera ni mòdul. El nombre zero es considera parell.CFGS DAM - M03
-Estructura iterativa
+emprar els operadors divisió entera ni mòdul. El nombre zero es considera parell.
 25. (numberOfDigits, Program, numberOfDigits) Donat un nombre enter, calcula el nombre
 de xifres que té.
 26. (palindromicNumber, Program, isPalindromic) Donat un nombre enter, determina si és
@@ -115,8 +113,7 @@ B, N, E. La correspondència entre notes i qualificacions és: MD=[0, 3) I=[3, 5
 38. (positiveNegative, ProgramTUI, main) Llegeix una seqüència de nombres enters
 acabada en zero i escriu si hi ha més nombres positius que negatius.
 39. (isMultiple, ProgramTUI, main) Llegeix un nombre enter positiu x, un nombre enter n i
-una seqüència de n nombres enters i escriu si algun d'ells és múltiple de x (interrompentCFGS DAM - M03
-Estructura iterativa
+una seqüència de n nombres enters i escriu si algun d'ells és múltiple de x (interrompent
 la lectura de la seqüència si el trobes).
 40. (consecutiveEquals, ProgramTUI, main) Llegeix una seqüència de més de dos nombres
 enters acabada en zero i escriu si hi ha dos nombres consecutius iguals (interrompent la
