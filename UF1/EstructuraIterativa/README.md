@@ -1,5 +1,5 @@
 #Estructura Iterativa
-Enunciats:
+Enunciats(HOLA INTENTO MODIFICAR):
 
 Estructura iterativa
 Per a cada exercici proposat, teniu anotat el següent format:
