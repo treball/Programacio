@@ -12,6 +12,7 @@ c) Per a cada exercici, crea una classe de nom ClassName dins del directori
 directoryName. El nom del fitxer on està la classe serà ClassName.java.
 d) Per a cada exercici, codifica dins la classe un o més mètodes amb els noms
 methodName1, methodName2...
+
 ---------------------------------------
 1. (ascendentNumbers, Program, writeAscNumbers) Donats dos nombres enters n 1 i n 2
 amb n 1 < n 2, escriu per pantalla tots els nombres enters dins l’interval [n 1 , n 2 ] en ordre
