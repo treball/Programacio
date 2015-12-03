@@ -1,5 +1,5 @@
 #Estructura Iterativa 
-###Solucions.
+###Solucions oficials
 
 ##Capçalera:
 Estructura iterativa
